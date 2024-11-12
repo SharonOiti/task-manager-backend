@@ -22,4 +22,4 @@ This is a backend for a simple task manager application built with **Node.js** a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-manager-backend.git
+   git clone (https://github.com/SharonOiti/task-manager-backend.git)
